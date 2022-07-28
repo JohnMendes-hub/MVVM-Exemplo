@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/john.mendes/Documents/AplicationsDemo/MVVMExemplo/app/src/main/res/drawable/baseline_delete_24.xml" value="0.2615" />
         <entry key="..\:/Users/john.mendes/Documents/AplicationsDemo/MVVMExemplo/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/john.mendes/Documents/AplicationsDemo/MVVMExemplo/app/src/main/res/layout/item.xml" value="0.35054347826086957" />
       </map>
